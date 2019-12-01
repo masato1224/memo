@@ -26,3 +26,6 @@ git config --global user.name YYYYYY
 ```
 git config --global alias.st status
 ```
+
+## git push -uについて
+上流ブランチをセットする
