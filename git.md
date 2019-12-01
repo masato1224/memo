@@ -21,4 +21,8 @@ git config --global user.name YYYYYY
     git remote add origin git@github.com:XXXXXX/YYYY.git
     git push -u origin master
     ```
- 
+
+## git エリアスの作成
+```
+git config --global alias.st status
+```
