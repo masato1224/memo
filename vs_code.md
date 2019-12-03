@@ -8,3 +8,18 @@
     "comments": "#006644"
   }
 ```
+
+## 便利なコマンド
+```
+# 新規作成
+code
+
+# terminal
+ctrl + shift + c
+
+# ドキュメントを開いたままに
+ctrl + K →　enter
+
+# 相対パス
+ctrl + k →　ctrl + shift + c
+```

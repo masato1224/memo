@@ -12,4 +12,9 @@ debug用のGem
 ## 便利コマンド
 ```
 show-source
+show-models
+show-routes
 ```
+
+## pry-rails
+rails consoleでpryが使える
