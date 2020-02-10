@@ -29,3 +29,13 @@ git config --global alias.st status
 
 ## git push -uについて
 上流ブランチをセットする
+s
+## remoteを変更する
+### 現在のremoteを確認する
+```
+git remote -v
+```
+### 変更
+```
+git remote set-url origin {new url}
+```
